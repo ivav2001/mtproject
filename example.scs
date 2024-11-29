@@ -1,0 +1,5 @@
+﻿A = 33;
+B = 11;
+C = myFunc(A+B);
+printf(C);
+
